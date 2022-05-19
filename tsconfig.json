@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"lib": ["es5", "es6", "es2017", "es2020", "dom"],
+		"target": "es5",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"outDir": "./dist",
+		"resolveJsonModule": true,
+		"sourceMap": true,
+		"strict": false,
+		"noImplicitAny": false,
+		"downlevelIteration": true,
+		"types": [],
+	},
+	"include": [
+		"src/**/*"
+	]
+}

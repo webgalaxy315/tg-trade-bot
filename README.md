@@ -1,2 +1,1 @@
-# tg-trade-bot
-trading bot
+Telegram Bot for Hua

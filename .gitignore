@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+# production
+logs
+dist
+files
+images
+# misc
+tmp
+.env
+.env.*
+certs
+npm-debug.log*
+package-lock.json
+response.json
+yarn.lock
+test.js
